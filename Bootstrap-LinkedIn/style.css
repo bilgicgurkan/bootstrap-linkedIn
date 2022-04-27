@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.menutext {
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-top: 15px;
+    font-weight: lighter;
+}
+.menutext:hover {
+      color: black;
+}
+body{
+    background-color:  #f3f2ef;
+}
+.menu1 ul li {
+      display: block;
+      float: left;
+      list-style: none;
+      margin-left: 35px;
+      /* border: 1px solid #000; */
+      margin-top:-15px;
+}
+.menu1 ul li a {
+    text-decoration: none;
+}
